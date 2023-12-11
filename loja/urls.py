@@ -20,9 +20,10 @@ from django.conf import settings
 from django.conf.urls.static import static
 
 urlpatterns = [
+    path('', include('produto.urls')),
+    path('perfil/', include('perfil.urls')),
+    path('pedido/', include('pedido.urls')),
     path('admin/', admin.site.urls),
-
-
 
 
 
