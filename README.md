@@ -3,28 +3,20 @@ Uma plataforma de ecommerce totalmente funcional, utilizando Python (django) par
 
 
 ## Features
-- User Authentication: Register, log in, and log out functionality.
 - Autenticação de Usuário: Registro, Log in e log out.
 
-- Product Management: Admins can add, edit, and delete product.
 - Gerenciamento de Produtos: Administradores pode criar, editar e deletar produtos da plataforma.
 
-- Products Sub-Category: Products can have sub-categories, like Smartphones with 128GB and 256GB.
 - Sub-Categorias de produtos: Produtos pode ter sub-categorias, como um Smarphone nas versões de 128GB e 256GB.
 
-- Shopping Cart: Users can add products to their cart and proceed to checkout.
 - Carrinho de Compras: Usuários tem acesso a funcionalidade de carrinhos de compra, podendo adicionar diversos produtos ao carrinho.
 
-- Order History: Users can view past orders.
 - Histórico de Compras
 
-- Responsive Design: Built with HTML and CSS for a seamless experience on all devices.
 - Design Responsivo: Utilizando HTML e CSS foi criado uma experiência funcional em qualquer dispositivo.
 
-- Search Functionality: Search for products by name or category.
 - Funcionalidade de Pesquisa
 
-- Admin Panel: Manage users, products, and orders through the Django admin interface.
 - Painel de Administrador: Usando a interface de administrador do Django, você tem todo o controle do site.
 
 ## Tecnologias Usadas
