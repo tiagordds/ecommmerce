@@ -1,16 +1,16 @@
 # Ecommerce Project
-A fully functional ecommerce platform built using Python (Django) for the backend, Java for additional functionality, and HTML/CSS for the frontend. This project allows users to browse products, add them to a cart, and complete purchases, while also providing an admin interface for managing products, orders, and users.
+A fully functional ecommerce platform built using Python (Django) for the backend, Java for additional functionality, and HTML/CSS for the frontend. This project allows users to browse products, add them to a cart, and complete purchases, while also providing an admin interface for managing products, orders, and user
 
 ## Features
 - User Authentication: Register, log in, and log out functionality.
 
-- Product Management: Admins can add, edit, and delete products.
+- Product Management: Admins can add, edit, and delete product.
 
 - Products Sub-Category: Products can have sub-categories, like Smartphones with 128GB and 256GB.
 
 - Shopping Cart: Users can add products to their cart and proceed to checkout.
 
-- Order History: Users can view their past orders.
+- Order History: Users can view past orders.
 
 - Responsive Design: Built with HTML and CSS for a seamless experience on all devices.
 
